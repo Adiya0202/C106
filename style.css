@@ -1,0 +1,12 @@
+body {
+    background: radial-gradient(#E040FB 0%, #42A5F5 100%);
+    font-family: 'Yeon Sung';
+}
+
+p {
+    letter-spacing: 5px;
+}
+.header {
+    background-color:gold;
+    color:indianred;
+}
